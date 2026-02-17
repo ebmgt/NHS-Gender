@@ -1,6 +1,6 @@
 # NHS-Gender
 
-Short URL: https://ebmgt.github.io/nhs-gender
+Short URL: [https://EBMgt.github.io/NHS-Gender](https://EBMgt.github.io/NHS-Gender)
 
 ## Our files:
 * See directories listed [above](https://github.com/ebmgt/NHS-Gender)
