@@ -3,6 +3,7 @@
 Short URL: [https://EBMgt.github.io/NHS-Gender](https://EBMgt.github.io/NHS-Gender)
 
 ## Our files:
+* A sortable version of Table 3 from the manuscript is online at [https://ebmgt.github.io/nhs-gender](https://ebmgt.github.io/nhs-gender/Table%203.%20MacKinnon%20pathway%20summary.html)
 * See directories listed [above](https://github.com/ebmgt/NHS-Gender)
 
 ## Survey PDFs at the NHS
