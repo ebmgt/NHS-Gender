@@ -3,7 +3,7 @@
 Short URL: [https://EBMgt.github.io/NHS-Gender](https://EBMgt.github.io/NHS-Gender)
 
 ## Our files:
-* A sortable version of Table 3 from the manuscript is online at [https://ebmgt.github.io/nhs-gender](https://ebmgt.github.io/nhs-gender/Table%203.%20Mediation%20pathways%20summary.html)
+* A sortable version of Table 3 from the manuscript is online at [https://ebmgt.github.io/nhs-gender](https://ebmgt.github.io/nhs-gender/Table%203.%20Mediation%20pathways%20summary.html) ([edit](https://github.com/ebmgt/ebmgt.github.io/tree/master/nhs-gender))
 * See directories listed [above](https://github.com/ebmgt/NHS-Gender)
 
 ## Survey PDFs at the NHS
